@@ -1,0 +1,30 @@
+h1 {
+margin: 0 auto;
+font-size: 200%;
+border: 20px outset yellow;
+padding: 10px;
+text-align: center;
+width: 20%;
+background-color: white;
+}
+
+
+#quiz {
+	margin: 0 auto;
+	margin-bottom: 40px;
+	width: 80%;
+	border: 40px outset yellow;
+	padding: 10px;
+	background-color: white;
+}
+
+body {
+	 background-image:url("../images/math.png")
+
+}
+
+#score {
+	background-color: white;
+	padding: 2px;
+	padding-bottom:5px;
+}
