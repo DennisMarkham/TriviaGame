@@ -27,7 +27,7 @@ console.log(wrong);
 
 setTimeout(function(){
 
-        $("body").text("Times up.  You got " + correct + " correct, " + wrong + " wrong, and left " + unanswered + " unanswered.");
+        $("body").text("Time's up.  You got " + correct + " correct, " + wrong + " wrong, and left " + unanswered + " unanswered.");
         console.log("test");
       }, 60 * 1000);
 
